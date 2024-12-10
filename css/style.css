@@ -1,0 +1,27 @@
+/* General styles for the publications section */
+#publications {
+    margin: 20px 0;
+  }
+  
+  #publications .media {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  #publications .media-body {
+    flex: 1;
+  }
+  
+  #publications .media img {
+    max-width: 250px; /* Adjust as needed */
+    height: auto;    /* Maintain aspect ratio */
+    border: 1px solid #ddd; /* Optional: adds a border */
+    border-radius: 5px;     /* Optional: rounded corners */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional: shadow */
+  }
+  
+  #publications .media .ml-3 {
+    margin-left: 20px;
+  }
+  
