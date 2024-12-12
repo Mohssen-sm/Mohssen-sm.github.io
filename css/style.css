@@ -37,6 +37,7 @@
   
   #projects .media-body {
     flex: 1;
+    margin-top: 30px;
   }
   
   #projects .media img {
@@ -49,7 +50,7 @@
   }
   
   #projects .media .ml-3 {
-    margin-left: 200px;
+    margin-left: 20px;
   }
   
   
